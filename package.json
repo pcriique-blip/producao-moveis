@@ -1,4 +1,9 @@
 {
   "name": "producao-moveis",
-  "version": "1.0.0"
+  "version": "1.0.0",
+  "dependencies": {
+    "next": "^15.4.5",
+    "react": "^19.1.1",
+    "react-dom": "^19.1.1"
+  }
 }
